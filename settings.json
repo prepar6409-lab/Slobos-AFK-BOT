@@ -8,7 +8,7 @@
   "server": {
     "ip": "HardcoreSMP2027.aternos.me",
     "port": 20227,
-    "version": "26.2"
+    "version": "1.21.4"
   },
   "position": {
     "enabled": true,
