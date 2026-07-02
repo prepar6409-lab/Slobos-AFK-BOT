@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "HardcoreSMP2027.aternos.me",
-    "port": 20227,
+    "ip": "TestServer29.aternos.me",
+    "port": 32838,
     "version": "1.21.1"
   },
   "position": {
